@@ -1,0 +1,85 @@
+.container {
+    display: block;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid rgb(143, 196, 209);
+    border-radius: 20px;
+    max-width: 600px;
+  }
+  
+  .chosen-city {
+    display: block;
+    margin: 50px;
+    text-align: center;
+  }
+  h1 {
+    color: rgb(0, 174, 255);
+    font-weight: bolder;
+    line-height: 30px;
+  }
+  .date-and-time {
+    color: rgb(143, 196, 209);
+    font-size: 20px;
+  }
+  .currently {
+    color: rgb(0, 174, 255);
+    font-size: 30px;
+    text-decoration: none;
+  }
+  span .celsius {
+    color: rgb(0, 174, 255);
+    font-size: 30px;
+    text-decoration: none;
+  }
+  span .celsius:hover {
+    color: red;
+  }
+  span .fahrenheit {
+    color: rgb(0, 174, 255);
+    font-size: 30px;
+    text-decoration: none;
+  }
+  span .fahrenheit:hover {
+    color: red;
+  }
+  .description {
+    color: rgb(143, 196, 209);
+    font-size: 20px;
+  }
+  .type {
+    color: rgb(0, 174, 255);
+    font-size: 30px;
+    text-decoration: none;
+  }
+  .more-info {
+    color: rgb(143, 196, 209);
+    font-size: 20px;
+    padding-bottom: 20px;
+  }
+  .info {
+    color: rgb(0, 174, 255);
+  }
+  .temp-max {
+    font-weight: bold;
+  }
+  .card {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+  }
+  .card-img-top {
+    height: 75px;
+  }
+  .date {
+    color: rgb(0, 174, 255);
+    margin-bottom: -20px;
+  }
+  row .btn {
+    margin-top: 10px;
+  }
+  i {
+    font-size: 50px;
+    color: rgb(77, 77, 153);
+  }
+  
